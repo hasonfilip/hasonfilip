@@ -7,7 +7,7 @@
 </p>
 <hr />
 <p align="center">
-  <a href="https://arkahcuk.github.io">https://arkahcuk.github.io</a>
+  <a href="https://arkahcuk.github.io">arkahcuk.github.io</a>
 </p>
 <!--
 <p align="center">
