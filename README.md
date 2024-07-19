@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Monomaniac+One&duration=100&pause=1700&color=28F71A&random=false&width=435&lines=%3E_;+" alt="Typing SVG" />
 </a>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=300&color=28F71A&repeat=true&random=false&width=435&lines=Welcome%2C+Pilgrims!;Here+be+dragons...;...and+perhaps+some+untested+code...;So+have+a+look+around!;+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=300&center=true&color=28F71A&repeat=true&random=false&width=435&lines=Welcome%2C+Pilgrim!;Here+be+dragons...;...and+perhaps+some+untested+code...;So+have+a+look+around!;+" alt="Typing SVG" />
 </p>
 <hr />
 <p align="center">
