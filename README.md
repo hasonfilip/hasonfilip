@@ -10,7 +10,8 @@
   <a href="https://arkahcuk.github.io">arkahcuk.github.io</a>
 </p>
 <!--
+<hr />
 <p align="center">
-  <a href="https://github.com/arkahcuk"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkahcuk&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  <a href="https://github.com/arkahcuk"><img width="50%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arkahcuk&include_orgs=true&theme=dark&hide=cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 -->
