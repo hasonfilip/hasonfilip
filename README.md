@@ -8,17 +8,17 @@
 <hr />
 <!--
 <p align="center">
-  <a href="https://arkahcuk.github.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&repeat=true&duration=1&pause=5000&center=true&color=28F71A&underline=true&width=435&lines=arkahcuk.github.io" alt="Typing SVG" />
+  <a href="https://hasonfilip.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&repeat=true&duration=1&pause=5000&center=true&color=28F71A&underline=true&width=435&lines=hasonfilip.github.io" alt="Typing SVG" />
   </a>
 </p>
 -->
 <p align="center">
-  <a href="https://arkahcuk.github.io">arkahcuk.github.io</a>
+  <a href="https://hasonfilip.github.io">hasonfilip.github.io</a>
 </p>
 <!--
 <hr />
 <p align="center">
-  <a href="https://github.com/arkahcuk"><img width="50%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arkahcuk&include_orgs=true&theme=dark&hide=cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  <a href="https://github.com/hasonfilip"><img width="50%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=hasonfilip&include_orgs=true&theme=dark&hide=cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 -->
