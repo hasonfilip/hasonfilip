@@ -35,7 +35,7 @@
 -->
 
 - 👤 My name is **Filip Hasoň**
-- 🎓 I study Databases and Web at [MFF UK](https://www.mff.cuni.cz)
+- 🎓 I studied Databases and Web at [MFF UK](https://www.mff.cuni.cz)
 - 🌐 I'm interested in Web Development
 - 🐧 I use [Artix Linux](https://artixlinux.org) as my daily driver
 - 📚 In my free time I enjoy reading
